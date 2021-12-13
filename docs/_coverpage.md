@@ -6,5 +6,5 @@
 - Nodejs知识
 - 前端技术
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[GitHub](https://github.com/superme-ray)
+[Get Started](zh-cn/quickstart.md)
